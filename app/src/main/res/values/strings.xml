@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LyricViewerApp</string>
+    <string name="main_menu">Lyric Viewer by Nasha Manalo</string>
+    <string name="main">Main Menu</string>
+    <string name="espresso">Espresso</string>
+    <string name="espresso_artist">Sabrina Carpenter</string>
+
+    <string name="i_got_you">I Got You</string>
+    <string name="i_got_you_artist">TWICE</string>
+
+    <string name="eight_letters">8 Letters</string>
+    <string name="eight_letters_artist">Why Dont We</string>
+
+    <string name="lily_of_the_valley">Lily of the Valley</string>
+    <string name="lily_of_the_valley_artist">DANIEL</string>
+
+    <string name="mananatili">Mananatili</string>
+    <string name="mananatili_artist">Cup of Joe</string>
+
+    <string name="falling_behind">Falling Behind</string>
+    <string name="falling_behind_artist">Laufey</string>
+
+    <string name="yesterday">Yesterday</string>
+    <string name="yesterday_artist">Official Hige Dandism</string>
+
+    <string name="high_hopes">High Hopes</string>
+    <string name="high_hopes_artist">Panic! At The Disco</string>
+
+</resources>
